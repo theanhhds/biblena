@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Biblena - Lắng nghe Lời Chúa trong mọi hoàn cảnh
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link: http://biblena.web.app/
+
 
 ## Available Scripts
 
