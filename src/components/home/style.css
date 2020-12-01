@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@600&family=Charm:wght@700&family=Dancing+Script:wght@600&display=swap');
+
+.font-charm{
+    font-family: 'Charm', cursive;
+}
+
+.font-dancing{
+    font-family: 'Dancing Script', cursive;
+}
+
+.font-baloo{
+    font-family: 'Baloo Chettan 2', cursive;
+}
