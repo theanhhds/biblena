@@ -14,8 +14,8 @@ function Moods(props){
     verses.map((item, index) => {
         col.push(
             <div className="w3-col m6 w3-padding">
-                <button className="w3-btn w3-white w3-border w3-border-blue w3-round-xxlarge" 
-                        style={{"width": "70%", "minWidth": "250px"}}
+                <button className="w3-btn w3-white w3-border w3-border-black w3-round-xlarge w3-large" 
+                        style={{"width": "70%", "minWidth": "250px", "outline":"0"}}
                         onClick={()=>{setVerse(index)}}
                 >
                             ... {item.name}

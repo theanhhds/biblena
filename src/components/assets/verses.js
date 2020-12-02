@@ -74,7 +74,7 @@ export const verses = [
             {
                 "id": 11,
                 "content": "Chúa giúp con người bước đi vững chãi, ưa chuộng đường lối họ dõi theo. Dẫu họ có vấp cũng không ngã gục, bởi vì đã có Chúa cầm tay",
-                "source": "Sách thánh vịnh 37, câu 23-24",
+                "source": "Sách thánh vịnh, chương 37, câu 23-24",
                 "comment": [] 
             },
             {
@@ -257,7 +257,7 @@ export const verses = [
             },
             {
                 "id": 10,
-                "content": "nh em đừng sợ chúng, vì chính Ðức Chúa, Thiên Chúa của anh em, chiến đấu cho anh em",
+                "content": "Anh em đừng sợ chúng, vì chính Ðức Chúa, Thiên Chúa của anh em, chiến đấu cho anh em",
                 "source": "Sách đệ nhị luật, chương 3, câu 22",
                 "comment": [] 
             },
