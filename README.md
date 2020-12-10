@@ -2,7 +2,7 @@
 
 Link: http://biblena.web.app/
 
-
+### Note: This is a demo prototype and still on developing
 ## Available Scripts
 
 In the project directory, you can run:
