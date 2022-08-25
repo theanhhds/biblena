@@ -1,22 +1,14 @@
 import React from 'react';
-import {verses} from '../assets/verses';
 
 function Moods(props){
     let col = new Array(), row = new Array(), list = new Array();
 
-    const setVerse = (id) => {
-        // console.log(id);
-        let verse = verses[id].verses[Math.floor(Math.random() * verses[id].verses.length)];
-        // console.log(verse);
-        props.setVerse(verse);
-    }
-
-    verses.map((item, index) => {
+    props.verses.map((item, index) => {
         col.push(
             <div className="w3-col m6 w3-padding">
                 <button className="w3-btn w3-white w3-border w3-border-black w3-round-xlarge w3-large" 
                         style={{"width": "70%", "minWidth": "250px", "outline":"0"}}
-                        onClick={()=>{setVerse(index)}}
+                        onClick={()=>{props.randomVerse(index)}}
                 >
                             ... {item.name}
                 </button>
